@@ -1,0 +1,1 @@
+I had the opportunity to work on the Customer Churn Management project at PwC, where I focused on identifying patterns and key factors contributing to customer churn. The project involved analyzing data, building predictive models, and developing strategies to retain customers, ultimately improving client retention rates.
